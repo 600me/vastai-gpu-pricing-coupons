@@ -14,7 +14,7 @@ Vast.ai uses marketplace pricing with on-demand, interruptible, and reserved opt
 
 That makes comparison part of the buying process. Look at the complete offer for a configuration your workload can use. Check the memory, expected runtime, storage, transfer, and interruption conditions together rather than sorting by a headline price and stopping there.
 
-### 👉 [Browse Vast.ai and inspect current GPU offers](https://go.272738.xyz/vastai?src=gh_coupon_vastai_cta1)
+### 👉 [Browse Vast.ai and inspect current GPU offers](https://gpu.mybskm.top/go/vastai)
 
 ---
 
@@ -38,7 +38,7 @@ These examples exclude storage, transfer, and any other applicable charges. Repl
 
 Source: [Vast.ai official pricing](https://vast.ai/pricing). USD unless stated otherwise. Examples below are calculations, not customer results.
 
-### 👉 [Compare real Vast.ai offers against your compute budget](https://go.272738.xyz/vastai?src=gh_coupon_vastai_cta2)
+### 👉 [Compare real Vast.ai offers against your compute budget](https://gpu.mybskm.top/go/vastai)
 
 ---
 
@@ -52,7 +52,7 @@ Source: [Vast.ai official pricing](https://vast.ai/pricing). USD unless stated o
 
 Keep a short record of your own completed jobs: selected configuration, billed time, total invoice, and output quality. That turns the next purchase into a comparison based on your workload rather than somebody else’s headline rate.
 
-### 👉 [Find a Vast.ai option for your workload and interruption tolerance](https://go.272738.xyz/vastai?src=gh_coupon_vastai_cta3)
+### 👉 [Find a Vast.ai option for your workload and interruption tolerance](https://gpu.mybskm.top/go/vastai)
 
 ---
 
@@ -76,4 +76,4 @@ No. The calculations are transparent hypothetical examples. No paid GPU test, gu
 
 ---
 
-### 👉 [Check live Vast.ai pricing before your next GPU job](https://go.272738.xyz/vastai?src=gh_coupon_vastai_cta4)
+### 👉 [Check live Vast.ai pricing before your next GPU job](https://gpu.mybskm.top/go/vastai)
